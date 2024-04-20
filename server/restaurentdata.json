@@ -11,9 +11,9 @@
     },
     {
       "id": 2,
-      "name": "lalit",
+      "name": "La Petite Brasserie",
       "location": "789 Elm Street, Smalltown, USA",
-      "cuisine": "Bihari",
+      "cuisine": "French",
       "specialty_dish": "Coq au Vin",
       "price_range": "$$",
       "description": "La Petite Brasserie transports diners to the streets of Paris with its classic French bistro fare. From escargot to bouillabaisse, each dish is prepared with care and attention to detail. The cozy ambiance and friendly service make it a favorite among locals and visitors alike."
