@@ -1,0 +1,67 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Bella Italia",
+      "location": "123 Main Street, Anytown, USA",
+      "cuisine": "Italian",
+      "specialty_dish": "Spaghetti Carbonara",
+      "price_range": "$$",
+      "description": "Bella Italia offers authentic Italian cuisine in a cozy atmosphere. With a menu boasting traditional dishes like pizza, pasta, and risotto, as well as a selection of fine wines, it's the perfect spot for a casual dinner or a special celebration."
+    },
+    {
+      "id": 2,
+      "name": "lalit",
+      "location": "789 Elm Street, Smalltown, USA",
+      "cuisine": "Bihari",
+      "specialty_dish": "Coq au Vin",
+      "price_range": "$$",
+      "description": "La Petite Brasserie transports diners to the streets of Paris with its classic French bistro fare. From escargot to bouillabaisse, each dish is prepared with care and attention to detail. The cozy ambiance and friendly service make it a favorite among locals and visitors alike."
+    },
+    {
+      "id": 3,
+      "name": "El Rancho Grande",
+      "location": "1313 Pine Street, Ranchtown, USA",
+      "cuisine": "Mexican",
+      "specialty_dish": "Carne Asada Tacos",
+      "price_range": "$",
+      "description": "El Rancho Grande serves up authentic Mexican cuisine in a casual setting. From sizzling fajitas to mouthwatering enchiladas, each dish is bursting with flavor. With friendly service and affordable prices, it's a favorite spot for families and groups looking for a delicious meal."
+    },
+    {
+      "id": 4,
+      "name": "The Golden Dragon",
+      "location": "888 Lotus Lane, Chinatown, USA",
+      "cuisine": "Chinese",
+      "specialty_dish": "Peking Duck",
+      "price_range": "$$$",
+      "description": "The Golden Dragon offers a sophisticated dining experience with its exquisite Chinese cuisine. From dim sum to Peking duck, each dish is prepared with the finest ingredients and attention to detail. With elegant decor and impeccable service, it's the perfect choice for a special occasion."
+    },
+    {
+      "id": 5,
+      "name": "Mamma Mia Pizzeria",
+      "location": "555 Pepperoni Plaza, Pizzatown, USA",
+      "cuisine": "Italian",
+      "specialty_dish": "Margherita Pizza",
+      "price_range": "$",
+      "description": "Mamma Mia Pizzeria serves up delicious and authentic Italian-style pizzas in a relaxed atmosphere. From classic margherita to gourmet toppings, each pizza is baked to perfection in a wood-fired oven. With friendly service and affordable prices, it's a favorite spot for pizza lovers."
+    },
+    {
+      "id": 6,
+      "name": "Thai Orchid",
+      "location": "222 Jasmine Street, Thai Town, USA",
+      "cuisine": "Thai",
+      "specialty_dish": "Pad Thai",
+      "price_range": "$$",
+      "description": "Thai Orchid offers a taste of Thailand with its flavorful and aromatic dishes. From spicy curries to noodle dishes, each dish is bursting with authentic Thai flavors. The casual atmosphere and friendly service make it a popular choice for both lunch and dinner."
+    },
+    {
+      "id": 7,
+      "name": "The Steakhouse",
+      "location": "777 Ribeye Road, Meatville, USA",
+      "cuisine": "Steakhouse",
+      "specialty_dish": "Filet Mignon",
+      "price_range": "$$$",
+      "description": "The Steakhouse is a premier destination for steak lovers, offering a range of cuts cooked to perfection. From juicy ribeyes to tender filet mignon, each steak is grilled to order and served with your choice of sides. With an upscale atmosphere and attentive service, it's the ideal spot for a special meal."
+    }
+  ]
+}
